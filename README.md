@@ -18,7 +18,7 @@ curl -fsSL https://install.allternit.com | bash
 Or with Homebrew:
 
 ```bash
-brew tap allternit/tap
+brew tap gizziio/tap
 brew install --cask allternit
 ```
 
