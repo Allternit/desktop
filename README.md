@@ -25,3 +25,14 @@ brew install --cask allternit
 ## Documentation
 
 https://docs.allternit.com
+
+## License
+
+The distributed Allternit Desktop application is licensed under the
+[Apache License, Version 2.0](LICENSE). Allternit, Gizzi, and A:// are
+trademarks of Allternit LLC — see [NOTICE](NOTICE).
+
+The application bundles open-source components; see
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). That file must be
+regenerated at build time when dependencies change, and any redistribution
+of the application must include it.
